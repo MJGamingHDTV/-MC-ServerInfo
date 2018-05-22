@@ -1,0 +1,7 @@
+name: ServerInfo
+version: 1.0
+author: MJ
+main: de.mj.server.info.Main
+commands:
+   serverinfo:
+      description: Shows some information
